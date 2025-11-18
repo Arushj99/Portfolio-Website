@@ -164,11 +164,6 @@ const ProfileSidebar = () => (
         </a>
       ))}
     </div>
-    <div className="tag-grid">
-      {resumeData.skills.languages.slice(0, 6).map((skill) => (
-        <span key={skill}>{skill}</span>
-      ))}
-    </div>
     <div className="sidebar-actions">
       <a className="pill-button primary" href={resumeData.linkedin} target="_blank" rel="noreferrer">
         Connect on LinkedIn
