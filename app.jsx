@@ -10,7 +10,7 @@ const resumeData = {
   name: "Arush Jain",
   title: "Software Engineer & Product Builder",
   location: "Morris Plains, NJ · Open to relocation",
-  tagline: "Passionate Software Engineer Seeking Out Meaninful Opportunitiees and Experiences",
+  tagline: "Passionate Software Engineer Seeking Out Meaningful Opportunitiees and Experiences",
   email: "arushj99@gmail.com",
   phone: "(973) 960-6958",
   github: "https://github.com/arushj99",
